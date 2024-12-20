@@ -1,38 +1,56 @@
 # Resumo
 Acredito que o maior dom da humanidade é a capacidade de aprender e se adaptar. Sou profundamente apaixonado pelo processo de aprendizagem e pelo prazer de dominar novas habilidades. Essa paixão me leva a buscar constantemente novas experiências e desafios, mantendo-me sempre aberto ao crescimento e à inovação.
 
-# Gostos Pessoais
-## Esportes
+<!-- # Experiência Profissional -->
 
-- Programação 45%
-- Escalada 25%
-- Ciclismo 15%
-- Camping 10%
-- Radioamadorismo 5%
+## Desenvolvedor Fullstack Laravel
+### Expertise Investimentos
+#### Jan 2024 até Agora
+
+#### Atribuições
+
+- Desenvolvimento de Sistemas Web
+- Integração com sistemas internos e externos
+- Modelagem e gestão de Banco de Dados
 
 
-# Experiência Profissional
+#### Habilidades
+
+- PHP e Laravel
+- HTML, CSS e JS
+- Arquitetura MVC
+- Programação Orientada a Objetos
+- MySQL
+- Solução de Problemas
 
 ## Analista de Business Intelligence
 ### Expertise Investimentos
 #### Ago 2023 até Agora
 
-- Extrair relatórios em multiplas fontes;
-- Transformar e padronizar dados;
-- Carregar e modelar dados e suas relações;
-- Analisar modelos e criar métricas;
-- Desenvolver, implantar e atualizar dashboards analíticos de BI.
+#### Atribuções 
+
+- Desenolvimento de dashboads interativos para fornecer insights estratégicos
+- Análise e modelagem de dados para estruturar informações relevantes para tomada de decisões
+- Conexão e integração direta com diversas fontes de dados
+- Colaboração ativa com setores internos para compreensão do modelo de negócios
+
 
 #### Habilidades
-- Análise de Dados;
-- Automação de Tarefas;
 
----
+- Análise e Modelagem de Dados
+- Visualização de Dados
+- Power BI e DAX
+- Power Query
+- SQL
+- Criação de Métricas e KPI's
+
+
 
 ## Consultor de Gestão Logística
 ### Autônomo
 #### Ago 2022 até Mai 2023
 
+#### 
 
 # Formação
 

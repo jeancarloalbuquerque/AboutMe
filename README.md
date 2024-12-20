@@ -1,10 +1,8 @@
-# Sobre Mim
-
-## Resumo
+# Resumo
 Acredito que o maior dom da humanidade é a capacidade de aprender e se adaptar. Sou profundamente apaixonado pelo processo de aprendizagem e pelo prazer de dominar novas habilidades. Essa paixão me leva a buscar constantemente novas experiências e desafios, mantendo-me sempre aberto ao crescimento e à inovação.
 
-## Formação
-Atualmente sou formado em Logística, no entanto estudo de forma autoditada o campos da **Ciência da Computação** e **Desenvolvimento de Sistemas para Web**. 
+# Formação
+Atualmente sou formado em Logística, no entanto estudo de forma autoditada o campos da **Ciência da Computação** e **Desenvolvimento Web**. 
 
 Além disso sou aficionado pelas áreas de:
 - :infinity: Matemática
@@ -58,13 +56,15 @@ Além disso sou aficionado pelas áreas de:
 ### Autônomo
 #### Ago 2022 até Mai 2023
 
-#### 
+#### Atribuições 
+- Desenvolvimento de Sistema de Controle de Produção (MRP)
+- Implantação de Modelo Logístico de Operação e Produção
 
-# Formação
+#### Habilidades
+- Análise Sistêmica
+- Excel
+- Levantamento de Requisitos
 
-# Habilidades
-- Análise de Dados
-- Desenvolvimento de Aplicações Web
 
 # Informações Relevantes
 

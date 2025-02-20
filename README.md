@@ -4,7 +4,7 @@ Acredito que o maior dom da humanidade é a capacidade de aprender e se adaptar.
 # Formação
 Atualmente sou formado em Logística, no entanto estudo de forma autoditada os campos de **Ciência da Computação** e **Desenvolvimento Web**. 
 
-Além disso sou aficionado pelas áreas de:
+Além disso sou estudante autodidata das áreas:
 - :infinity: Matemática
 - :atom: Física 
 - :thought_balloon: Filosofia
@@ -13,7 +13,7 @@ Além disso sou aficionado pelas áreas de:
 
 # Experiências Profissionais
 
-## Desenvolvedor Fullstack Laravel
+## Desenvolvedor Fullstack
 ### Expertise Investimentos
 #### Jan 2024 até Agora
 
@@ -25,12 +25,11 @@ Além disso sou aficionado pelas áreas de:
 
 #### Habilidades
 
-- PHP e Laravel
+- PHP, Laravel e Livewire
 - HTML, CSS e JS
 - Arquitetura MVC
 - Programação Orientada a Objetos
-- MySQL
-- Solução de Problemas
+- Banco de Dados MySQL
 
 ## Analista de Business Intelligence
 ### Expertise Investimentos
